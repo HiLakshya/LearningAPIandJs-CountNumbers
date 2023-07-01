@@ -21,13 +21,6 @@ To run the CountNumbers application locally, follow these steps:
 
 2. Open the index.html file in your preferred web browser.
 
-## Usage
-
-1. Click the "Generate Number" button to generate a random number.
-2. The generated number will be displayed on the web page.
-3. Click the "Get Fact" button to fetch an interesting fact about the generated number from the Numbers API.
-4. The fact will be displayed below the generated number.
-
 ## Technologies Used
 
 - HTML
